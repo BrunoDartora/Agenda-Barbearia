@@ -1,0 +1,14 @@
+body {
+    max-height: 1356px;
+    background-image: url(/image/backgroud.jpg);
+    background-size: 275%;
+    background-attachment: fixed;
+    background-position: center;
+}
+.center {
+    margin-top: 120px;
+}
+
+.color {
+    background-color: rgba(104, 69, 44, 0.918);
+}
